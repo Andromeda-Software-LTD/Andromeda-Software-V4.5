@@ -1,0 +1,404 @@
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Guna.UI2.dll
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\MetroSet UI.dll
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.AssemblyReference.cache
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.SuggestedBindingRedirects.cache
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.AccountManager.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.AddNumber.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Applications.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.AppsProperties.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Build.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.CallPhone.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.CallsManager.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.CameraManager.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.ClipboardManager.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Color_Box0.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.ContactsManager.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.MainForms.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.MainSettings.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Dialog1.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Download.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Editor.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Faker.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.FileManager.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Icons.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.inp.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Keylogger.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Microphone.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.ScreenShoter.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.SelecteBilder.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Resources.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Ports.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Report.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Settings.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.ShellTerminal.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.SMSManager.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.TextMessage.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Upload.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Win_Users.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.ClientCard.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Toggle.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.GenerateResource.cache
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.CoreCompileInputs.cache
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.CopyComplete
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.FrmLogin.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\FireSharp.dll
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Newtonsoft.Json.dll
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\System.Net.Http.Extensions.dll
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\System.Net.Http.Primitives.dll
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Newtonsoft.Json.xml
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\System.Net.Http.Extensions.xml
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\System.Net.Http.Primitives.xml
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.App.config
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.FrmRegister.resources
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Andromeda.exe.config
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Andromeda.exe
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Andromeda.pdb
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\bin\Debug\Andromeda.xml
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\Andromeda.exe
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\Andromeda.xml
+D:\Jogos Aplicativos\Android - Source Code\AngelAndroid\obj\Debug\Andromeda.pdb
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.App.config
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.AssemblyReference.cache
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.CallPhone.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.CallsManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.CameraManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.ClipboardManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.ContactsManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.MainForms.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.MainSettings.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Dialog1.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Download.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Editor.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Faker.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.FileManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Icons.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.inp.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Microphone.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.ScreenShoter.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.SelecteBilder.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Resources.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Ports.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Report.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Settings.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.ShellTerminal.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.SMSManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.TextMessage.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Upload.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Win_Users.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.fhbwfbhhwbdawdf.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.TermosOfService.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Bypass_Play_Protect.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Forms_Buffer.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.FrmCaculate_Hash.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Bitcoin.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_btc_Password.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Decrypt.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Is_Ban.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Nunbak.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Server_Connect.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_User_ID.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Web_Service.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Get_Admin.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Get_Admin_Forms.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Get_hash_password.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Get_Link.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Get_Random_String.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Get_root_forms.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Script_kill_apps.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Server_Forms.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Verify_hash.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Verify_Server_Class.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.ClientCard.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Toggle.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.GenerateResource.cache
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.CoreCompileInputs.cache
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Andromeda.exe.config
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Andromeda.exe
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Andromeda.pdb
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Andromeda.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.PDF.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.Tasks.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.Words.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.Words.Pdf2Word.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Guna.UI2.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\MetroSet UI.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Newtonsoft.Json.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Buffers.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Drawing.Common.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Memory.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Net.Http.Extensions.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Net.Http.Primitives.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Numerics.Vectors.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Security.AccessControl.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Security.Permissions.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Security.Principal.Windows.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.PDF.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.Tasks.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.Words.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Newtonsoft.Json.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Buffers.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Memory.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Net.Http.Extensions.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Net.Http.Primitives.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Numerics.Vectors.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.CopyComplete
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.exe
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.pdb
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.bbtBbozmvsugvydVontnixcsybubNeczimNdicgpoomvopcbua.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.延肉怎传丢间吗十种不传谢乓你感非式不会谢份文问那乓这文份英乓.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.要先价种房劳文书间延的年式先种式房间道肉方外华三的里价感烟常.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.感语十间不谢语字外方伙我传这的词种答非说肉么么文余价思肉个么.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.频什用感式吗那许涯涯文用延常华不中伏文思语英谢的文吗么非外语.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Applications.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.AppsProperties.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.问想答英式文允份英份丢价的天文文英延个间份是书英用谢谢什方个.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.仿伪谢谢谢伪年吸不词表道谢涯式英仰字先那乓式要字份外吸文里不.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.HTML.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\FireSharp.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.HTML.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.SuggestedBindingRedirects.cache
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Andromeda.exe.config
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Andromeda.exe
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Andromeda.pdb
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Andromeda.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.HTML.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.PDF.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.Tasks.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.Words.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.Words.Pdf2Word.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Guna.UI2.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\MetroSet UI.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Newtonsoft.Json.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Buffers.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Drawing.Common.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Memory.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Net.Http.Extensions.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Net.Http.Primitives.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Numerics.Vectors.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Security.AccessControl.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Security.Permissions.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Security.Principal.Windows.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.HTML.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.PDF.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.Tasks.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Aspose.Words.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\Newtonsoft.Json.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Buffers.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Memory.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Net.Http.Extensions.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Net.Http.Primitives.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Numerics.Vectors.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.App.config
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.AssemblyReference.cache
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.SuggestedBindingRedirects.cache
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Applications.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.要先价种房劳文书间延的年式先种式房间道肉方外华三的里价感烟常.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.感语十间不谢语字外方伙我传这的词种答非说肉么么文余价思肉个么.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.问想答英式文允份英份丢价的天文文英延个间份是书英用谢谢什方个.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.bbtBbozmvsugvydVontnixcsybubNeczimNdicgpoomvopcbua.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Resources.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Users.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.fhbwfbhhwbdawdf.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.频什用感式吗那许涯涯文用延常华不中伏文思语英谢的文吗么非外语.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.仿伪谢谢谢伪年吸不词表道谢涯式英仰字先那乓式要字份外吸文里不.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Bitcoin.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_btc_Password.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Decrypt.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Is_Ban.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Nunbak.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Server_Connect.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_User_ID.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Web_Service.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.GenerateResource.cache
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.CoreCompileInputs.cache
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.CopyComplete
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.exe
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.xml
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.pdb
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_CallsManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_CameraManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_ClipboardManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_ContactsManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_AppsProperties.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_CallPhone.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Dialog.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Download.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Editor.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Faker.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_FileManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Icons.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_inp.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Bypass_Play_Protect.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Forms_Buffer.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Get_Admin.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Get_Admin_Forms.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Get_hash_password.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Get_Link.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Get_Random_String.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Get_root_forms.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Account.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Main.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_MainSettings.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Microphone.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_VNC.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_SelecteBilder.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Ports.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Report.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Settings.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_ShellTerminal.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_SMSManager.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_TextMessage.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Upload.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_TermosOfService.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Caculate_Hash.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Script_kill_apps.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Server_Forms.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Verify_hash.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Verify_Server_Class.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Config_ClientCard.resources
+D:\Arquivos de Programas\Engenharia Reversa\Softwares\Andromeda\Android - Pro\Andromeda - Source\AngelAndroid\obj\Debug\Andromeda.Frm_Config_Enable.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Andromeda.exe.config
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Andromeda.exe
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Andromeda.pdb
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Andromeda.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Aspose.HTML.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Aspose.PDF.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Aspose.Tasks.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Aspose.Words.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Guna.UI2.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\MetroSet UI.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Buffers.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Drawing.Common.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Memory.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Security.AccessControl.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Security.Permissions.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Aspose.HTML.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Aspose.PDF.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Aspose.Tasks.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Aspose.Words.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Buffers.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Memory.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.App.config
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.AssemblyReference.cache
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Applications.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_CallsManager.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_CameraManager.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_ClipboardManager.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_ContactsManager.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Account.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.要先价种房劳文书间延的年式先种式房间道肉方外华三的里价感烟常.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_AppsProperties.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.感语十间不谢语字外方伙我传这的词种答非说肉么么文余价思肉个么.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_CallPhone.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.问想答英式文允份英份丢价的天文文英延个间份是书英用谢谢什方个.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Main.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_MainSettings.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Dialog.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Download.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Editor.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Faker.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_FileManager.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Icons.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_inp.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.bbtBbozmvsugvydVontnixcsybubNeczimNdicgpoomvopcbua.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Microphone.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_VNC.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_SelecteBilder.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Resources.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Ports.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Report.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Settings.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_ShellTerminal.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_SMSManager.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_TextMessage.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Upload.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Users.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.fhbwfbhhwbdawdf.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_TermosOfService.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.频什用感式吗那许涯涯文用延常华不中伏文思语英谢的文吗么非外语.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Bypass_Play_Protect.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.仿伪谢谢谢伪年吸不词表道谢涯式英仰字先那乓式要字份外吸文里不.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Forms_Buffer.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Caculate_Hash.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Bitcoin.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_btc_Password.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Decrypt.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Is_Ban.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Nunbak.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Server_Connect.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_User_ID.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Web_Service.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Get_Admin.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Get_Admin_Forms.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Get_hash_password.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Get_Link.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Get_Random_String.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Get_root_forms.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Script_kill_apps.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Server_Forms.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Verify_hash.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Verify_Server_Class.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Config_ClientCard.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.Frm_Config_Enable.resources
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.GenerateResource.cache
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda-Rat.vbproj.CoreCompileInputs.cache
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromed.9EA8A590.Up2Date
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.exe
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.xml
+C:\Users\cabec\Documents\Projetcs\Andromeda - Source1\AngelAndroid\obj\Debug\Andromeda.pdb

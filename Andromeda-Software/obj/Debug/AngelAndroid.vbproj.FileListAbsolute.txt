@@ -1,0 +1,468 @@
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe.config
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.pdb
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.xml
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\MetroSet UI.dll
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbprojAssemblyReference.cache
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.About.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AccountManager.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AddNumber.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CHECKER.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherRat.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Applications.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AppsProperties.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Build.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallPhone.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallsManager.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CameraManager.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClipboardManager.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Color_Box0.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ContactsManager.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherSettings.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Dialog1.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.DialogPloice.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Download.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Editor.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.EditSocket.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Faker.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.FileManager.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Icons.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.information.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.inp.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Keylogger.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.LocationManager.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Microphone.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ScreenShoter.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SelecteBilder.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Resources.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Ports.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Report.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Settings.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ShellTerminal.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SMSManager.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.TextMessage.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Upload.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Win_Users.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClientCard.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Toggle.resources
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.GenerateResource.cache
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CoreCompileInputs.cache
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CopyComplete
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.exe
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.xml
+C:\Users\EVLF\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.pdb
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe.config
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.pdb
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.xml
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\MetroSet UI.dll
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbprojAssemblyReference.cache
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.About.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AccountManager.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AddNumber.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CHECKER.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherRat.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Applications.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AppsProperties.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Build.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallPhone.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallsManager.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CameraManager.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClipboardManager.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Color_Box0.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ContactsManager.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherSettings.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Dialog1.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.DialogPloice.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Download.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Editor.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.EditSocket.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Faker.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.FileManager.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Icons.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.information.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.inp.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Keylogger.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.LocationManager.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Microphone.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ScreenShoter.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SelecteBilder.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Resources.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Ports.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Report.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Settings.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ShellTerminal.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SMSManager.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.TextMessage.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Upload.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Win_Users.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClientCard.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Toggle.resources
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.GenerateResource.cache
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CoreCompileInputs.cache
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CopyComplete
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.exe
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.xml
+C:\Users\EVLF\Desktop\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.pdb
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.AssemblyReference.cache
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.About.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AccountManager.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AddNumber.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CHECKER.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherRat.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Applications.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AppsProperties.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Build.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallPhone.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallsManager.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CameraManager.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClipboardManager.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Color_Box0.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ContactsManager.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherSettings.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Dialog1.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.DialogPloice.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Download.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Editor.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.EditSocket.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Faker.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.FileManager.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Icons.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.information.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.inp.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Keylogger.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.LocationManager.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Microphone.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ScreenShoter.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SelecteBilder.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Resources.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Ports.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Report.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Settings.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ShellTerminal.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SMSManager.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.TextMessage.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Upload.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Win_Users.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClientCard.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Toggle.resources
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.GenerateResource.cache
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CoreCompileInputs.cache
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.exe
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.xml
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.pdb
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe.config
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.pdb
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.xml
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\MetroSet UI.dll
+C:\Users\Dressc0de\Downloads\Cypher Rat - FullPackage\Cypher Rat - FullPackage\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CopyComplete
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe.config
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.pdb
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.xml
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\MetroSet UI.dll
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.AssemblyReference.cache
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.About.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AccountManager.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AddNumber.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CHECKER.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherRat.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Applications.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AppsProperties.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Build.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallPhone.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallsManager.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CameraManager.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClipboardManager.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Color_Box0.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ContactsManager.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherSettings.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Dialog1.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.DialogPloice.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Download.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Editor.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.EditSocket.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Faker.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.FileManager.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Icons.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.information.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.inp.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Keylogger.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.LocationManager.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Microphone.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ScreenShoter.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SelecteBilder.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Resources.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Ports.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Report.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Settings.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ShellTerminal.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SMSManager.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.TextMessage.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Upload.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Win_Users.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClientCard.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Toggle.resources
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.GenerateResource.cache
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CoreCompileInputs.cache
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CopyComplete
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.exe
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.xml
+C:\Users\Dressc0de\Videos\Laboratorio\Ferramentas\RAT's\SRC\Android\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.pdb
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe.config
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.pdb
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.xml
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\Guna.UI2.dll
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\MetroSet UI.dll
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.AssemblyReference.cache
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AccountManager.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AddNumber.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherRat.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Applications.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AppsProperties.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Build.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallPhone.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallsManager.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CameraManager.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClipboardManager.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Color_Box0.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ContactsManager.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherSettings.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Dialog1.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.DialogPloice.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Download.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Editor.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.EditSocket.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Faker.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.FileManager.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Icons.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.information.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.inp.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Keylogger.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.LocationManager.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Microphone.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ScreenShoter.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SelecteBilder.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Resources.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Ports.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Report.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Settings.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ShellTerminal.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SMSManager.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.TextMessage.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Upload.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Win_Users.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClientCard.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Toggle.resources
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.GenerateResource.cache
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CoreCompileInputs.cache
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CopyComplete
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.exe
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.xml
+C:\Users\cabec\Desktop\CypherRatFull\CypherRatFull\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.pdb
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe.config
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.exe
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.pdb
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\CypherRat.xml
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\Guna.UI2.dll
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\bin\Debug\MetroSet UI.dll
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.AssemblyReference.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AccountManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AddNumber.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Applications.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.AppsProperties.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Build.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallPhone.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CallsManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CameraManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClipboardManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Color_Box0.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ContactsManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherRat.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherSettings.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Dialog1.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Download.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Editor.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.EditSocket.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Faker.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.FileManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Icons.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.information.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.inp.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Keylogger.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.LocationManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Microphone.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ScreenShoter.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SelecteBilder.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Resources.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Ports.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Report.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Settings.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ShellTerminal.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.SMSManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.TextMessage.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Upload.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Win_Users.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.ClientCard.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid_v2.Toggle.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.GenerateResource.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CoreCompileInputs.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CopyComplete
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.exe
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.xml
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main\AngelAndroid\obj\Debug\CypherRat.pdb
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\CypherRat.exe.config
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\CypherRat.exe
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\CypherRat.pdb
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\CypherRat.xml
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\Guna.UI2.dll
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\MetroSet UI.dll
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid.vbproj.AssemblyReference.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.AccountManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.AddNumber.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Applications.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.AppsProperties.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Build.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.CallPhone.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.CallsManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.CameraManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.ClipboardManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Color_Box0.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.ContactsManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherRat.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherSettings.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Dialog1.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Download.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Editor.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Faker.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.FileManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Icons.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.inp.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Keylogger.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Microphone.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.ScreenShoter.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.SelecteBilder.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Resources.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Ports.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Report.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Settings.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.ShellTerminal.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.SMSManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.TextMessage.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Upload.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Win_Users.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.ClientCard.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Toggle.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid.vbproj.GenerateResource.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CoreCompileInputs.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CopyComplete
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\CypherRat.exe
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\CypherRat.xml
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\CypherRat.pdb
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\Fsociety - Android.exe.config
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\Fsociety - Android.exe
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\Fsociety - Android.pdb
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\Fsociety - Android.xml
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\Guna.UI2.dll
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\bin\Debug\MetroSet UI.dll
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid.vbproj.AssemblyReference.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.AccountManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.AddNumber.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Applications.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.AppsProperties.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Build.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.CallPhone.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.CallsManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.CameraManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.ClipboardManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Color_Box0.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.ContactsManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherRat.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherSettings.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Dialog1.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Download.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Editor.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Faker.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.FileManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Icons.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.inp.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Keylogger.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Microphone.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.ScreenShoter.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.SelecteBilder.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Resources.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Ports.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Report.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Settings.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.ShellTerminal.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.SMSManager.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.TextMessage.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Upload.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Win_Users.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.ClientCard.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid_v2.Toggle.resources
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid.vbproj.GenerateResource.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CoreCompileInputs.cache
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CopyComplete
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\Fsociety - Android.exe
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\Fsociety - Android.xml
+C:\Users\cabec\Desktop\Cypher-Rat-Source-Code-main - Copia\AngelAndroid\obj\Debug\Fsociety - Android.pdb
+D:\Android - Source Code\AngelAndroid\bin\Debug\Fsociety - Android.exe.config
+D:\Android - Source Code\AngelAndroid\bin\Debug\Fsociety - Android.exe
+D:\Android - Source Code\AngelAndroid\bin\Debug\Fsociety - Android.pdb
+D:\Android - Source Code\AngelAndroid\bin\Debug\Fsociety - Android.xml
+D:\Android - Source Code\AngelAndroid\bin\Debug\Guna.UI2.dll
+D:\Android - Source Code\AngelAndroid\bin\Debug\MetroSet UI.dll
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid.vbproj.AssemblyReference.cache
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid.vbproj.SuggestedBindingRedirects.cache
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.AccountManager.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.AddNumber.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Applications.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.AppsProperties.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Build.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.CallPhone.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.CallsManager.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.CameraManager.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.ClipboardManager.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Color_Box0.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.ContactsManager.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherRat.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.CypherSettings.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Dialog1.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Download.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Editor.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Faker.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.FileManager.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Icons.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.inp.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Keylogger.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Microphone.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.ScreenShoter.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.SelecteBilder.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Resources.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Ports.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Report.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Settings.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.ShellTerminal.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.SMSManager.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.TextMessage.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Upload.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Win_Users.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.ClientCard.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid_v2.Toggle.resources
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid.vbproj.GenerateResource.cache
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CoreCompileInputs.cache
+D:\Android - Source Code\AngelAndroid\obj\Debug\AngelAndroid.vbproj.CopyComplete
+D:\Android - Source Code\AngelAndroid\obj\Debug\Fsociety - Android.exe
+D:\Android - Source Code\AngelAndroid\obj\Debug\Fsociety - Android.xml
+D:\Android - Source Code\AngelAndroid\obj\Debug\Fsociety - Android.pdb
