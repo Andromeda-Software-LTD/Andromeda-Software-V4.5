@@ -39,6 +39,15 @@ O Android SDK Manager é uma ferramenta fundamental para qualquer desenvolvedor 
 Esperamos que este guia tenha fornecido uma visão abrangente sobre o Android SDK Manager e suas capacidades de gerenciamento de versões do Android. Com esse conhecimento, você está pronto para iniciar sua
 
 
+## Instalação
+
+Problemas com o software na hora de gerar APK, lembrando utilize um computador atualizado
+
+```bash
+    Download Java sdk: https://www.oracle.com/br/java/technologies/downloads/#jdk22-windows
+    Download Java: https://www.java.com/pt-BR/download/
+    Download Visual Studio 2022
+```
 
 ## Screenshots
 
